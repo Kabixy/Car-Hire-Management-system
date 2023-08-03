@@ -339,7 +339,7 @@ $_SESSION['brndid']=$result->bid;
       <aside class="col-md-3">
       
         <div class="share_vehicle">
-          <p>Share: <a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a> </p>
+          <p>Share: <a href="https://twitter.com/King_Motors11/"><i class="fa fa-twitter-square" aria-hidden="true"></i></a> <a href="https://github.com/Kabixy/Kabixy/tree/main"><i class="fa fa-git-hub-square" aria-hidden="true"></i></a> <a href="https://www.instagram.com/kingmotors11/"><i class="fa fa-instagram-square" aria-hidden="true"></i></a> </p>
         </div>
         <div class="sidebar_widget">
           <div class="widget_heading">
